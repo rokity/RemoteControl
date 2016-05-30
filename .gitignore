@@ -35,3 +35,20 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+
+/node_modules
+/npm-debug.log
+
+/test/assets/package-*/
+/test/assets/temp-*/
+/test/reports
+/test/tmp/
+
+/bower.json
+/component.json
+/bower_components
+/test/sample
+!/test/sample/bower.json
+/npm-shrinkwrap.json
+/public/bower_components
