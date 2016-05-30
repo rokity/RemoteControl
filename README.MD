@@ -10,6 +10,6 @@
 </ol>
 
 <h3>Run:</h3>
-  <ol><li>npm start<li><li>Open button "QR CODE" </li>
+  <ol><li>npm start</li><li>Open button "QR CODE" </li>
       <li>Scan QR CODE and open page (the url is passable only in the same WI-FI of PC )</li>
       </ol>
