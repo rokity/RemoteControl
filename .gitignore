@@ -47,8 +47,8 @@ jspm_packages
 
 /bower.json
 /component.json
-/bower_components
+/bower_components/*
 /test/sample
 !/test/sample/bower.json
 /npm-shrinkwrap.json
-/public/bower_components
+/public/bower_components/*
