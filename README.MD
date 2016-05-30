@@ -9,5 +9,7 @@
 <li>cd public && bower install </li>
 </ol>
 
-<h3>Run</h3>
-  <h4>npm start</h4>
+<h3>Run:</h3>
+  <ol><li>npm start<li><li>Open button <h4>QR CODE</h4> </li>
+      <li>Scan QR CODE and open page (the url is passable only in the same WI-FI of PC )</li>
+      </ol>
