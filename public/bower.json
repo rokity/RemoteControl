@@ -1,6 +1,7 @@
 {
   "name": "remote_control",
   "description": "",
+  "directory" : "public/bower_components",
   "main": "index.js",
   "license": "ISC",
   "homepage": "",
