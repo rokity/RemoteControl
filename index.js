@@ -28,8 +28,8 @@ app.get('/url',function(req,res){
 var open = require('open');
 
 http.listen(3000, function(){
-console.log("localhost:3000");
-open("http://localhost:3000/");
+console.log("localhost:3000/url");
+open("http://localhost:3000/url");
 });
 /*
 
